@@ -1,6 +1,6 @@
 package br.com.sara.api.repositories;
 
-import br.com.sara.api.domain.User;
+import br.com.sara.api.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

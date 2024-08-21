@@ -1,6 +1,6 @@
-package br.com.sara.api.resources;
+package br.com.sara.api.controller;
 
-import br.com.sara.api.domain.User;
+import br.com.sara.api.entity.User;
 import br.com.sara.api.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,5 @@
 package br.com.sara.api;
 
-import br.com.sara.api.domain.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

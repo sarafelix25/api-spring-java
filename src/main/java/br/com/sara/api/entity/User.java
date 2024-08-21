@@ -1,4 +1,4 @@
-package br.com.sara.api.domain;
+package br.com.sara.api.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

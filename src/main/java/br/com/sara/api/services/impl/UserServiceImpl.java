@@ -1,9 +1,9 @@
 package br.com.sara.api.services.impl;
 
-import br.com.sara.api.domain.User;
+import br.com.sara.api.entity.User;
 import br.com.sara.api.repositories.UserRepository;
 import br.com.sara.api.services.UserService;
-import br.com.sara.api.services.exceptions.ObjectNotFoundException;
+import br.com.sara.api.exceptions.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

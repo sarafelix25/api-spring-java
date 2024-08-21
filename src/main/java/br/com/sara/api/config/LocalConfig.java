@@ -1,10 +1,9 @@
 package br.com.sara.api.config;
 
-import br.com.sara.api.domain.User;
+import br.com.sara.api.entity.User;
 import br.com.sara.api.repositories.UserRepository;
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 

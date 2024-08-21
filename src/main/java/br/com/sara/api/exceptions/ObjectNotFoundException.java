@@ -1,4 +1,4 @@
-package br.com.sara.api.services.exceptions;
+package br.com.sara.api.exceptions;
 
 public class ObjectNotFoundException extends RuntimeException {
     public ObjectNotFoundException(String message) {
